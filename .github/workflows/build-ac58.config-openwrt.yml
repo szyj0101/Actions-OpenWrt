@@ -86,7 +86,7 @@ jobs:
       run: |
         cd openwrt
         echo -e "4 thread build."
-        make -j4 V=s
+        make -j4
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
