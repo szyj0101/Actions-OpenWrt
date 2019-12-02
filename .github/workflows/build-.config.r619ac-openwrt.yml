@@ -14,7 +14,7 @@ on:
     branches: 
       - master
     paths:
-      - 'r619ac.config'
+      - '.config.r619ac'
 #  schedule:
 #    - cron: 0 8 * * 5
 #  watch:
@@ -69,7 +69,7 @@ jobs:
 
     - name: Load custom configuration
       env:
-        CONFIG_FILE: '.config.ac58'
+        CONFIG_FILE: '.config.r619ac'
       run: |
         [ -e files ] && mv files openwrt/files
         [ -e $CONFIG_FILE ] && mv $CONFIG_FILE openwrt/.config
