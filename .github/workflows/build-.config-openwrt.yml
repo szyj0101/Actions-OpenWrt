@@ -15,10 +15,10 @@ on:
       - master
     paths:
       - '.config'
-  schedule:
-    - cron: 0 8 * * 5
-  watch:
-    types: [started]
+#  schedule:
+#    - cron: 0 8 * * 5
+#  watch:
+#    types: [started]
 
 jobs:
   build:
@@ -85,8 +85,8 @@ jobs:
     - name: Build
       run: |
         cd openwrt
-        echo -e "4 thread build."
-        make -j4
+        echo -e "$(nproc) thread build."
+        make -j$(nproc)
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:

@@ -5,7 +5,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build ac58u OpenWrt
+name: Build ghl-r-001 OpenWrt
 
 on: 
   release:
@@ -14,7 +14,7 @@ on:
     branches: 
       - master
     paths:
-      - '.config.ac58u'
+      - '.config.ghl-r-001'
 #  schedule:
 #    - cron: 0 8 * * 5
   watch:
@@ -69,7 +69,7 @@ jobs:
 
     - name: Load custom configuration
       env:
-        CONFIG_FILE: '.config.ac58'
+        CONFIG_FILE: '.config.ghl-r-001'
       run: |
         [ -e files ] && mv files openwrt/files
         [ -e $CONFIG_FILE ] && mv $CONFIG_FILE openwrt/.config
