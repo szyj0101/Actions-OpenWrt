@@ -90,5 +90,5 @@ jobs:
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
-        name: OpenWrt
+        name: r619ac-128m firmware
         path: openwrt/bin/targets
