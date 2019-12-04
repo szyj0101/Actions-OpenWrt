@@ -88,7 +88,7 @@ jobs:
         echo -e "$(nproc) thread build."
         make -j$(nproc)
     - name: Assemble artifact
-        run: |
+      run: |
           rm -rf ./artifact/
           mkdir -p ./artifact/
           find ./bin/targets/ -name "*sysupgrade*bin*" | xargs -i mv -f {} ./artifact/
