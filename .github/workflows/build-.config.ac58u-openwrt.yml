@@ -91,7 +91,7 @@ jobs:
       run: |
         rm -rf ./artifact/
         mkdir -p ./artifact/
-        find ./bin/targets/ -name "*combined*img*" | xargs -i mv -f {} ./artifact/
+        find ./bin/targets/ -name "*sysupgrade*bin*" | xargs -i mv -f {} ./artifact/
         find ./bin/targets/ -name "*config*seed*" | xargs -i mv -f {} ./artifact/
         find ./bin/targets/ -name "*sha256sums*" | xargs -i mv -f {} ./artifact/
     - name : Upload artifact
