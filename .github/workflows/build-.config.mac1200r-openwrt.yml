@@ -87,15 +87,8 @@ jobs:
         cd openwrt
         echo -e "$(nproc) thread build."
         make -j$(nproc)
-    - name: Assemble artifact
-        run: |
-          rm -rf ./artifact/
-          mkdir -p ./artifact/
-          find ./bin/targets/ -name "*sysupgrade*bin*" | xargs -i mv -f {} ./artifact/
-          find ./bin/targets/ -name "*config*seed*" | xargs -i mv -f {} ./artifact/
-          find ./bin/targets/ -name "*sha256sums*" | xargs -i mv -f {} ./artifact/
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
         name: mac1200r firmware
-        path: ./artifact/
+        path: openwrt/bin/targets
