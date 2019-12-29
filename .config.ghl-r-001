@@ -63,145 +63,174 @@ CONFIG_TARGET_ramips_mt7621=y
 # CONFIG_TARGET_MULTI_PROFILE is not set
 # CONFIG_TARGET_ramips_mt7620_Default is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_alfa-network_ac1200rm is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_ai-br100 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_rp-n53 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_rt-ac51u is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_rt-ac54u is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_rt-n12p is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_rt-n14u is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_alfa-network_r36m-e4g is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_alfa-network_tube-e4g is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_aigale_ai-br100 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_asus_rp-n53 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_asus_rt-ac51u is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_asus_rt-n12p is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_asus_rt-n14u is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_bdcom_wap2100-sk is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_whr-1166d is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_whr-300hp2 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_whr-600d is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_wmr-300 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_cf-wr800n is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_dch-m225 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_dir-810l is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_buffalo_whr-1166d is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_buffalo_whr-300hp2 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_buffalo_whr-600d is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_buffalo_wmr-300 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_comfast_cf-wr800n is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_dlink_dch-m225 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_dlink_dir-510l is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_dlink_dir-810l is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_dlink_dwr-116-a1 is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_dlink_dwr-118-a1 is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_dlink_dwr-118-a2 is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_dlink_dwr-921-c1 is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_dlink_dwr-921-c3 is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_dlink_dwr-922-e2 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_tiny-ac is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_dovado_tiny-ac is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_edimax_br-6478ac-v2 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_wrh-300cr is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_gl-mt300a is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_gl-mt300n is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_gl-mt750 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_c108 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_hc5661 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_hc5761 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_hc5861 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_u25awf-h1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_edimax_ew-7476rpc is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_edimax_ew-7478ac is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_edimax_ew-7478apc is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_elecom_wrh-300cr is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_engenius_esr600 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_fon_fon2601 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_glinet_gl-mt300a is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_glinet_gl-mt300n is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_glinet_gl-mt750 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_hnet_c108 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_head-weblink_hdrm200 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_hiwifi_hc5661 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_hiwifi_hc5761 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_hiwifi_hc5861 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_iodata_wn-ac1167gr is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_iodata_wn-ac733gr3 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_kimax_u25awf-h1 is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_kimax_u35wf is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_mlw221 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_mlwg2 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_kingston_mlw221 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_kingston_mlwg2 is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_lava_lr-25g001 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_y1 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_y1s is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_e1700 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_mt7620a_mt7530 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_mt7620a_mt7610e is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_mt7620a is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_mt7620a_v22sg is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_microwrt is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_ex2700 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_ex3700-ex3800 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_wn3000rpv3 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_wt3020-4M is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_wt3020-8M is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_oy-0001 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_lenovo_newifi-y1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_lenovo_newifi-y1s is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_linksys_e1700 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_ralink_mt7620a-mt7530-evb is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_ralink_mt7620a-mt7610e-evb is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_ralink_mt7620a-evb is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_ralink_mt7620a-v22sg-evb is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_microduino_microwrt is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_netgear_ex2700 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_netgear_ex3700 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_netgear_ex6130 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_netgear_wn3000rp-v3 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_nexx_wt3020-4m is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_nexx_wt3020-8m is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_ohyeah_oy-0001 is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_phicomm_k2g is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_psg1208 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_psg1218a is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_psg1218b is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_cs-qr10 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_db-wrt01 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_mzk-750dhp is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_mzk-ex300np is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_mzk-ex750np is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_phicomm_psg1208 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_phicomm_psg1218a is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_phicomm_psg1218b is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_planex_cs-qr10 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_planex_db-wrt01 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_planex_mzk-750dhp is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_planex_mzk-ex300np is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_planex_mzk-ex750np is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_ravpower_wd03 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_d240 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_na930 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_tplink_c2-v1 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_tplink_c20-v1 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_ArcherC20i is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_ArcherC50v1 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_ArcherMR200 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_sanlinking_d240 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_sercomm_na930 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_tplink_archer-c2-v1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_tplink_archer-c20-v1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_tplink_archer-c20i is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_tplink_archer-c50-v1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_tplink_archer-mr200 is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_vonets_var11n-300 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_wrtnode is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_xiaomi_miwifi-r3 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_miwifi-mini is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_youku-yk1 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_bocco is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_zte-q7 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-ape522ii is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-cpe102 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-wa05 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_we1026-5g-16m is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-we2026 is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-we826-16M is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-we826-32M is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-wr8305rt is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_kn_rc is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_kn_rf is not set
-# CONFIG_TARGET_ramips_mt7620_DEVICE_kng_rc is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_wrtnode_wrtnode is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_xiaomi_miwifi-mini is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_youku_yk1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_yukai_bocco is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zte_q7 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbtlink_zbt-ape522ii is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbtlink_zbt-cpe102 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbtlink_zbt-wa05 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbtlink_zbt-we1026-5g-16m is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbtlink_zbt-we1026-h-32m is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbtlink_zbt-we2026 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbtlink_zbt-we826-16m is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbtlink_zbt-we826-32m is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbtlink_zbt-we826-e is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbtlink_zbt-wr8305rt is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zyxel_keenetic-omni is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zyxel_keenetic-omni-ii is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zyxel_keenetic-viva is not set
 # CONFIG_TARGET_ramips_mt7621_Default is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_adslr_g7 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_ew1200 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_wsr-1166 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_wsr-600 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_afoundry_ew1200 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_alfa-network_quad-e4g is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_asus_rt-ac57u is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_asus_rt-ac65p is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_asus_rt-ac85p is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_asiarf_ap7621-001 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_asiarf_ap7621-nv1 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_buffalo_wsr-1166dhp is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_buffalo_wsr-600dhp is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_xzwifi_creativebox-v1 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_dir-860l-b1 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_dlink_dir-860l-b1 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_elecom_wrc-1167ghbk2-s is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_elecom_wrc-1900gst is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_elecom_wrc-2533gst is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_firewrt is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_edimax_rg21s is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_firefly_firewrt is not set
 CONFIG_TARGET_ramips_mt7621_DEVICE_gehua_ghl-r-001=y
 # CONFIG_TARGET_ramips_mt7621_DEVICE_gnubee_gb-pc1 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_gnubee_gb-pc2 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_hc5962 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_hiwifi_hc5962 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_iodata_wn-ax1167gr is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_iodata_wn-gx300gr is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_re6500 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_mqmaker_witi-256m is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_mqmaker_witi-512m is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_iodata_wnpr2600g is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_jcg_jhr-ac876m is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_linksys_re6500 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_mqmaker_witi is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_mtc_wr1201 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_mt7621 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_mediatek_mt7621-eval-board is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_mediatek_ap-mt7621a-v60 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_rb750gr3 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_mikrotik_rbm11g is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_mikrotik_rbm33g is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_wf-2881 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_r6220 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_mikrotik_rb750gr3 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_netgear_ex6150 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_netgear_r6220 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_netgear_r6260 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_netgear_r6350 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_wndr3700v5 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_newifi-d1 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_netgear_r6800 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_netgear_r6850 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_netgear_wndr3700-v5 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_netis_wf-2881 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_lenovo_newifi-d1 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_d-team_newifi-d2 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_pbr-m1 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_k2p is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_vr500 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_sap-g3200u3 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_sk-wb8 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_re350-v1 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_timecloud is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_ubnt-erx is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_ubnt-erx-sfp is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_unielec_u7621-06-256m-16m is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_unielec_u7621-06-512m-64m is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_11acnas is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_w2914nsv2 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_XiaoYu-C5 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_d-team_pbr-m1 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_phicomm_k2p is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_planex_vr500 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_storylink_sap-g3200u3 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_samknows_whitebox-v8 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_totolink_a7000r is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_tplink_re350-v1 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_tplink_re650-v1 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_telco-electronics_x1 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_thunder_timecloud is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_ubiquiti_edgerouterx is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_ubiquiti_edgerouterx-sfp is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_unielec_u7621-06-16m is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_unielec_u7621-06-64m is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_wevo_11acnas is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_wevo_w2914ns-v2 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_xiaoyu_xy-c5 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_xiaomi_mir3p is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_mir3g is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_mir4 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_xiaomi_mir3g is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_xiaomi_mir3g-v2 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_youhua_wr1200js is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_zbt-we1326 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_youku_yk-l2 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_zbtlink_zbt-we1326 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_zbtlink_zbt-we3526 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_zbt-wg2626 is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_zbt-wg3526-16M is not set
-# CONFIG_TARGET_ramips_mt7621_DEVICE_zbt-wg3526-32M is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_zbtlink_zbt-wg2626 is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_zbtlink_zbt-wg3526-16m is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_zbtlink_zbt-wg3526-32m is not set
+# CONFIG_TARGET_ramips_mt7621_DEVICE_iptime_a6ns-m is not set
 # CONFIG_TARGET_x86_64_Generic is not set
 CONFIG_HAS_SUBTARGETS=y
 CONFIG_HAS_DEVICES=y
@@ -215,16 +244,13 @@ CONFIG_LINUX_4_14=y
 CONFIG_DEFAULT_base-files=y
 CONFIG_DEFAULT_block-mount=y
 CONFIG_DEFAULT_busybox=y
-CONFIG_DEFAULT_ca-certificates=y
 CONFIG_DEFAULT_coremark=y
-CONFIG_DEFAULT_ddns-scripts_aliyun=y
 CONFIG_DEFAULT_default-settings=y
 CONFIG_DEFAULT_dnsmasq-full=y
 CONFIG_DEFAULT_dropbear=y
 CONFIG_DEFAULT_firewall=y
 CONFIG_DEFAULT_fstools=y
 CONFIG_DEFAULT_iptables=y
-CONFIG_DEFAULT_iwinfo=y
 CONFIG_DEFAULT_kmod-gpio-button-hotplug=y
 CONFIG_DEFAULT_kmod-ipt-offload=y
 CONFIG_DEFAULT_kmod-ipt-raw=y
@@ -257,8 +283,6 @@ CONFIG_DEFAULT_luci-app-upnp=y
 CONFIG_DEFAULT_luci-app-vlmcsd=y
 CONFIG_DEFAULT_luci-app-vsftpd=y
 CONFIG_DEFAULT_luci-app-wol=y
-CONFIG_DEFAULT_luci-app-xlnetacc=y
-CONFIG_DEFAULT_luci-app-zerotier=y
 CONFIG_DEFAULT_mtd=y
 CONFIG_DEFAULT_netifd=y
 CONFIG_DEFAULT_opkg=y
@@ -268,7 +292,7 @@ CONFIG_DEFAULT_swconfig=y
 CONFIG_DEFAULT_uci=y
 CONFIG_DEFAULT_uclient-fetch=y
 CONFIG_DEFAULT_wget=y
-CONFIG_DEFAULT_wpad-basic=y
+CONFIG_DEFAULT_wpad-openssl=y
 CONFIG_AUDIO_SUPPORT=y
 CONFIG_GPIO_SUPPORT=y
 CONFIG_PCI_SUPPORT=y
@@ -1605,6 +1629,7 @@ CONFIG_FSTOOLS_UBIFS_EXTROOT=y
 # CONFIG_FSTOOLS_OVL_MOUNT_FULL_ACCESS_TIME is not set
 # CONFIG_FSTOOLS_OVL_MOUNT_COMPRESS_ZLIB is not set
 CONFIG_PACKAGE_fwtool=y
+# CONFIG_PACKAGE_getrandom is not set
 CONFIG_PACKAGE_jsonfilter=y
 # CONFIG_PACKAGE_libatomic is not set
 CONFIG_PACKAGE_libc=y
@@ -1895,7 +1920,7 @@ CONFIG_PACKAGE_wireless-regdb=y
 #
 CONFIG_PACKAGE_kmod-crypto-aead=y
 CONFIG_PACKAGE_kmod-crypto-arc4=y
-# CONFIG_PACKAGE_kmod-crypto-authenc is not set
+CONFIG_PACKAGE_kmod-crypto-authenc=y
 # CONFIG_PACKAGE_kmod-crypto-cbc is not set
 # CONFIG_PACKAGE_kmod-crypto-ccm is not set
 # CONFIG_PACKAGE_kmod-crypto-cmac is not set
@@ -1937,7 +1962,7 @@ CONFIG_PACKAGE_kmod-crypto-sha1=y
 # CONFIG_PACKAGE_kmod-crypto-wq is not set
 # CONFIG_PACKAGE_kmod-crypto-xcbc is not set
 # CONFIG_PACKAGE_kmod-crypto-xts is not set
-# CONFIG_PACKAGE_kmod-cryptodev is not set
+CONFIG_PACKAGE_kmod-cryptodev=y
 
 #
 # Filesystems
@@ -2289,7 +2314,7 @@ CONFIG_PACKAGE_kmod-slhc=y
 # CONFIG_PACKAGE_kmod-slip is not set
 CONFIG_PACKAGE_kmod-tcp-bbr=y
 # CONFIG_PACKAGE_kmod-trelay is not set
-CONFIG_PACKAGE_kmod-tun=y
+# CONFIG_PACKAGE_kmod-tun is not set
 # CONFIG_PACKAGE_kmod-veth is not set
 # CONFIG_PACKAGE_kmod-vxlan is not set
 # CONFIG_PACKAGE_kmod-wireguard is not set
@@ -2330,6 +2355,7 @@ CONFIG_PACKAGE_kmod-gpio-button-hotplug=y
 # CONFIG_PACKAGE_kmod-mtdram is not set
 # CONFIG_PACKAGE_kmod-mtdtests is not set
 # CONFIG_PACKAGE_kmod-parport-pc is not set
+# CONFIG_PACKAGE_kmod-pinctrl-sx150x is not set
 # CONFIG_PACKAGE_kmod-ppdev is not set
 # CONFIG_PACKAGE_kmod-pps is not set
 # CONFIG_PACKAGE_kmod-pps-gpio is not set
@@ -2617,11 +2643,6 @@ CONFIG_PACKAGE_luci-lib-fs=y
 # Node.js
 #
 # CONFIG_PACKAGE_node is not set
-
-#
-# Module Selection
-#
-# CONFIG_NODEJS_ICU is not set
 # CONFIG_PACKAGE_node-arduino-firmata is not set
 # CONFIG_PACKAGE_node-cylon is not set
 # CONFIG_PACKAGE_node-cylon-firmata is not set
@@ -3359,29 +3380,34 @@ CONFIG_OPENSSL_OPTIMIZE_SPEED=y
 CONFIG_OPENSSL_WITH_ASM=y
 CONFIG_OPENSSL_WITH_DEPRECATED=y
 # CONFIG_OPENSSL_NO_DEPRECATED is not set
-# CONFIG_OPENSSL_WITH_ERROR_MESSAGES is not set
+CONFIG_OPENSSL_WITH_ERROR_MESSAGES=y
 
 #
 # Protocol Support
 #
+CONFIG_OPENSSL_WITH_TLS13=y
 # CONFIG_OPENSSL_WITH_DTLS is not set
-CONFIG_OPENSSL_WITH_NPN=y
+# CONFIG_OPENSSL_WITH_NPN is not set
 CONFIG_OPENSSL_WITH_SRP=y
 CONFIG_OPENSSL_WITH_CMS=y
 
 #
 # Algorithm Selection
 #
-CONFIG_OPENSSL_WITH_EC=y
 # CONFIG_OPENSSL_WITH_EC2M is not set
+CONFIG_OPENSSL_WITH_CHACHA_POLY1305=y
+CONFIG_OPENSSL_PREFER_CHACHA_OVER_GCM=y
 CONFIG_OPENSSL_WITH_PSK=y
 
 #
 # Less commonly used build options
 #
+# CONFIG_OPENSSL_WITH_ARIA is not set
 # CONFIG_OPENSSL_WITH_CAMELLIA is not set
 # CONFIG_OPENSSL_WITH_IDEA is not set
 # CONFIG_OPENSSL_WITH_SEED is not set
+# CONFIG_OPENSSL_WITH_SM234 is not set
+# CONFIG_OPENSSL_WITH_BLAKE2 is not set
 # CONFIG_OPENSSL_WITH_MDC2 is not set
 # CONFIG_OPENSSL_WITH_WHIRLPOOL is not set
 # CONFIG_OPENSSL_WITH_COMPRESSION is not set
@@ -3391,10 +3417,11 @@ CONFIG_OPENSSL_WITH_PSK=y
 # Engine/Hardware Support
 #
 CONFIG_OPENSSL_ENGINE=y
-# CONFIG_OPENSSL_ENGINE_CRYPTO is not set
+# CONFIG_OPENSSL_ENGINE_BUILTIN is not set
 # CONFIG_OPENSSL_WITH_GOST is not set
-# CONFIG_PACKAGE_libopenssl-gost is not set
-# CONFIG_PACKAGE_libopenssl1.1 is not set
+# CONFIG_PACKAGE_libopenssl-afalg is not set
+CONFIG_PACKAGE_libopenssl-conf=y
+CONFIG_PACKAGE_libopenssl-devcrypto=y
 # CONFIG_PACKAGE_libpolarssl is not set
 # CONFIG_PACKAGE_libwolfssl is not set
 
@@ -3669,6 +3696,7 @@ CONFIG_PACKAGE_libid3tag=y
 CONFIG_PACKAGE_libiwinfo=y
 CONFIG_PACKAGE_libjpeg=y
 CONFIG_PACKAGE_libjson-c=y
+# CONFIG_PACKAGE_libkeyutils is not set
 # CONFIG_PACKAGE_libkmod is not set
 # CONFIG_PACKAGE_libldns is not set
 # CONFIG_PACKAGE_libltdl is not set
@@ -3684,7 +3712,7 @@ CONFIG_PACKAGE_liblua=y
 # CONFIG_PACKAGE_libmicrohttpd is not set
 # CONFIG_PACKAGE_libmicrohttpd-no-ssl is not set
 # CONFIG_PACKAGE_libmilter-sendmail is not set
-CONFIG_PACKAGE_libminiupnpc=y
+# CONFIG_PACKAGE_libminiupnpc is not set
 # CONFIG_PACKAGE_libmms is not set
 CONFIG_PACKAGE_libmnl=y
 # CONFIG_PACKAGE_libmodbus is not set
@@ -3695,7 +3723,7 @@ CONFIG_PACKAGE_libmnl=y
 # CONFIG_PACKAGE_libmpeg2 is not set
 # CONFIG_PACKAGE_libmpg123 is not set
 # CONFIG_PACKAGE_libmraa is not set
-CONFIG_PACKAGE_libnatpmp=y
+# CONFIG_PACKAGE_libnatpmp is not set
 CONFIG_PACKAGE_libncurses=y
 # CONFIG_PACKAGE_libndpi is not set
 # CONFIG_PACKAGE_libneon is not set
@@ -3753,6 +3781,7 @@ CONFIG_PACKAGE_libpng=y
 # CONFIG_PACKAGE_libradcli is not set
 CONFIG_PACKAGE_libreadline=y
 # CONFIG_PACKAGE_libredblack is not set
+# CONFIG_PACKAGE_librouteros is not set
 # CONFIG_PACKAGE_libroxml is not set
 # CONFIG_PACKAGE_librpc is not set
 # CONFIG_PACKAGE_librrd1 is not set
@@ -3931,6 +3960,7 @@ CONFIG_PACKAGE_luci-mod-admin-full=y
 # 3. Applications
 #
 CONFIG_PACKAGE_luci-app-accesscontrol=y
+# CONFIG_PACKAGE_luci-app-acme is not set
 # CONFIG_PACKAGE_luci-app-adblock is not set
 CONFIG_PACKAGE_luci-app-adbyby-plus=y
 # CONFIG_PACKAGE_luci-app-advanced-reboot is not set
@@ -4012,6 +4042,7 @@ CONFIG_PACKAGE_luci-app-ramfree=y
 # CONFIG_PACKAGE_luci-app-shairplay is not set
 # CONFIG_PACKAGE_luci-app-siitwizard is not set
 # CONFIG_PACKAGE_luci-app-simple-adblock is not set
+# CONFIG_PACKAGE_luci-app-smartdns is not set
 # CONFIG_PACKAGE_luci-app-softethervpn is not set
 # CONFIG_PACKAGE_luci-app-splash is not set
 CONFIG_PACKAGE_luci-app-sqm=y
@@ -4048,8 +4079,8 @@ CONFIG_PACKAGE_luci-app-vsftpd=y
 # CONFIG_PACKAGE_luci-app-wireguard is not set
 CONFIG_PACKAGE_luci-app-wol=y
 # CONFIG_PACKAGE_luci-app-wrtbwmon is not set
-CONFIG_PACKAGE_luci-app-xlnetacc=y
-CONFIG_PACKAGE_luci-app-zerotier=y
+# CONFIG_PACKAGE_luci-app-xlnetacc is not set
+# CONFIG_PACKAGE_luci-app-zerotier is not set
 
 #
 # 4. Themes
@@ -4267,7 +4298,6 @@ CONFIG_PACKAGE_luci-i18n-vsftpd-zh-cn=y
 # CONFIG_PACKAGE_luci-i18n-wol-vi is not set
 CONFIG_PACKAGE_luci-i18n-wol-zh-cn=y
 # CONFIG_PACKAGE_luci-i18n-wol-zh-tw is not set
-CONFIG_PACKAGE_luci-i18n-zerotier-zh-cn=y
 
 #
 # Mail
@@ -4529,8 +4559,9 @@ CONFIG_PACKAGE_miniupnpd=y
 # CONFIG_PACKAGE_bind-tools is not set
 # CONFIG_PACKAGE_danish is not set
 CONFIG_PACKAGE_ddns-scripts=y
-CONFIG_PACKAGE_ddns-scripts_aliyun=y
+# CONFIG_PACKAGE_ddns-scripts_aliyun is not set
 # CONFIG_PACKAGE_ddns-scripts_cloudflare.com-v4 is not set
+# CONFIG_PACKAGE_ddns-scripts_dnspod is not set
 # CONFIG_PACKAGE_ddns-scripts_freedns_42_pl is not set
 # CONFIG_PACKAGE_ddns-scripts_godaddy.com-v1 is not set
 # CONFIG_PACKAGE_ddns-scripts_no-ip_com is not set
@@ -4919,13 +4950,7 @@ CONFIG_PACKAGE_pptpd=y
 # CONFIG_PACKAGE_wireguard is not set
 # CONFIG_PACKAGE_wireguard-tools is not set
 # CONFIG_PACKAGE_xl2tpd is not set
-CONFIG_PACKAGE_zerotier=y
-
-#
-# Configuration
-#
-# CONFIG_ZEROTIER_ENABLE_DEBUG is not set
-# CONFIG_ZEROTIER_ENABLE_SELFTEST is not set
+# CONFIG_PACKAGE_zerotier is not set
 
 #
 # Version Control Systems
@@ -5070,7 +5095,6 @@ CONFIG_PACKAGE_uhttpd-mod-ubus=y
 # CONFIG_PACKAGE_6in4 is not set
 # CONFIG_PACKAGE_6rd is not set
 # CONFIG_PACKAGE_6to4 is not set
-# CONFIG_PACKAGE_BaiduPCS-Web is not set
 # CONFIG_PACKAGE_acme is not set
 # CONFIG_PACKAGE_acme-dnsapi is not set
 # CONFIG_PACKAGE_adblock is not set
@@ -5082,6 +5106,7 @@ CONFIG_PACKAGE_adbyby=y
 # CONFIG_PACKAGE_apcupsd-cgi is not set
 # CONFIG_PACKAGE_apinger is not set
 # CONFIG_PACKAGE_arp-scan is not set
+# CONFIG_PACKAGE_baidupcs-web is not set
 # CONFIG_PACKAGE_banip is not set
 # CONFIG_PACKAGE_batctl-default is not set
 # CONFIG_PACKAGE_batctl-full is not set
@@ -5150,6 +5175,7 @@ CONFIG_PACKAGE_hostapd-common=y
 CONFIG_PACKAGE_ipset=y
 # CONFIG_PACKAGE_ipset-dns is not set
 # CONFIG_PACKAGE_ipset-lists is not set
+CONFIG_PACKAGE_ipt2socks=y
 # CONFIG_PACKAGE_iptraf-ng is not set
 # CONFIG_PACKAGE_iputils-arping is not set
 # CONFIG_PACKAGE_iputils-clockdiff is not set
@@ -5234,6 +5260,7 @@ CONFIG_PACKAGE_ppp-mod-pppoe=y
 # CONFIG_PACKAGE_radsecproxy is not set
 # CONFIG_PACKAGE_redsocks is not set
 # CONFIG_PACKAGE_remserial is not set
+# CONFIG_PACKAGE_rpcbind is not set
 # CONFIG_PACKAGE_rssileds is not set
 # CONFIG_PACKAGE_rsyslog is not set
 # CONFIG_PACKAGE_samba36-client is not set
@@ -5256,6 +5283,7 @@ CONFIG_PACKAGE_shadowsocksr-libev-alt=y
 CONFIG_PACKAGE_shadowsocksr-libev-server=y
 CONFIG_PACKAGE_shadowsocksr-libev-ssr-local=y
 # CONFIG_PACKAGE_simple-adblock is not set
+# CONFIG_PACKAGE_smartdns is not set
 # CONFIG_PACKAGE_smartsnmpd is not set
 # CONFIG_PACKAGE_snmp-mibs is not set
 # CONFIG_PACKAGE_snmp-utils is not set
@@ -5310,11 +5338,11 @@ CONFIG_DRIVER_11W_SUPPORT=y
 # CONFIG_PACKAGE_wpa-supplicant-p2p is not set
 # CONFIG_PACKAGE_wpa-supplicant-wolfssl is not set
 # CONFIG_PACKAGE_wpad is not set
-CONFIG_PACKAGE_wpad-basic=y
+# CONFIG_PACKAGE_wpad-basic is not set
 # CONFIG_PACKAGE_wpad-mesh-openssl is not set
 # CONFIG_PACKAGE_wpad-mesh-wolfssl is not set
 # CONFIG_PACKAGE_wpad-mini is not set
-# CONFIG_PACKAGE_wpad-openssl is not set
+CONFIG_PACKAGE_wpad-openssl=y
 # CONFIG_PACKAGE_wpad-wolfssl is not set
 # CONFIG_PACKAGE_wpan-tools is not set
 # CONFIG_PACKAGE_wwan is not set
@@ -5433,6 +5461,7 @@ CONFIG_PACKAGE_wpad-basic=y
 # CONFIG_PACKAGE_gnupg is not set
 # CONFIG_PACKAGE_gnutls-utils is not set
 # CONFIG_PACKAGE_gpgv is not set
+# CONFIG_PACKAGE_keyctl is not set
 # CONFIG_PACKAGE_px5g-mbedtls is not set
 # CONFIG_PACKAGE_px5g-standalone is not set
 # CONFIG_PACKAGE_stoken is not set
@@ -5461,6 +5490,7 @@ CONFIG_PACKAGE_wpad-basic=y
 # CONFIG_PACKAGE_mkhfs is not set
 # CONFIG_PACKAGE_ncdu is not set
 # CONFIG_PACKAGE_nfs-utils is not set
+# CONFIG_PACKAGE_nfs-utils-libs is not set
 # CONFIG_PACKAGE_ntfs-3g is not set
 # CONFIG_PACKAGE_ntfs-3g-low is not set
 # CONFIG_PACKAGE_ntfs-3g-utils is not set
@@ -5736,7 +5766,7 @@ CONFIG_PACKAGE_coreutils-nohup=y
 # CONFIG_PACKAGE_io is not set
 # CONFIG_PACKAGE_irqbalance is not set
 # CONFIG_PACKAGE_iwcap is not set
-CONFIG_PACKAGE_iwinfo=y
+# CONFIG_PACKAGE_iwinfo is not set
 # CONFIG_PACKAGE_jq is not set
 CONFIG_PACKAGE_jshn=y
 # CONFIG_PACKAGE_kmod is not set
@@ -5790,7 +5820,7 @@ CONFIG_PACKAGE_libjson-script=y
 # CONFIG_PACKAGE_openobex-apps is not set
 # CONFIG_PACKAGE_openocd is not set
 # CONFIG_PACKAGE_opensc-utils is not set
-CONFIG_PACKAGE_openssl-util=y
+# CONFIG_PACKAGE_openssl-util is not set
 # CONFIG_PACKAGE_openzwave is not set
 # CONFIG_PACKAGE_openzwave-config is not set
 # CONFIG_PACKAGE_owipcalc is not set
